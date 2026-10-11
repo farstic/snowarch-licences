@@ -1,0 +1,18 @@
+{
+  "format": "snowarch-revocations/1",
+  "list": {
+    "version": 1,
+    "revoked": [
+      {
+        "id": "LIC-2026-0003",
+        "revokedAt": "2026-10-11",
+        "reason": "ended"
+      }
+    ]
+  },
+  "signature": {
+    "alg": "Ed25519",
+    "key": "sha256:a2bffafd270c3f77b29447810dcea42933696264ddbd15f3bfeb004a81ba2e17",
+    "value": "n3WVIZisJPn9sVZGjwMYTs9g/Cf4wUw5C7y2qCnBiUOrhWJpInrqET50Zy5byAr20jw4pRBFZH5ckErSx8tQCg=="
+  }
+}
